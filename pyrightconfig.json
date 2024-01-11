@@ -1,0 +1,5 @@
+{
+  "reportOptionalSubscript": false,
+  "reportOptionalMemberAccess": false,
+  "typeCheckingMode": "off"
+}
